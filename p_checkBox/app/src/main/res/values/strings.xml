@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p_checkBox</string>
+    <string name="txtv1">Primer Valor</string>
+    <string name="txtv2">Segundo Valor</string>
+    <string name="btn">Calcular</string>
+    <string name="cb1">Sumar</string>
+    <string name="cb2">Restar</string>
+</resources>

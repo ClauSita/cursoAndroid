@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQlite</string>
+    <string name="txt_codigo">Código</string>
+    <string name="txt_descripcion">Descripción</string>
+    <string name="txt_precio">Precio</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_modificar">Modificar</string>
+</resources>

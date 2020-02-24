@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="txt_status_string">Estatus del Alumno</string>
+    <string name="txt_mates">Matemáticas</string>
+    <string name="txt_esp">Español</string>
+    <string name="txt_qui">Química</string>
+    <string name="btn_calcular">Calcular</string>
+</resources>

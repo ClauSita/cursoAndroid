@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="txt_PV">Ingresa el primer valor</string>
+    <string name="txt_SV">Ingresa el segundo valor</string>
+    <string name="btn_txt">Resultado</string>
+    <string name="rB_suma">Sumar</string>
+    <string name="rB_resta">Restar</string>
+
+</resources>
