@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/et_v1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="@string/v1">
+
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_v1"
+        android:id="@+id/et_v2"
+        android:hint="@string/v2"
+        android:inputType="number">
+
+    </EditText>
+
+
+    <TextView
+        android:layout_below="@id/et_v2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/res"
+        android:textSize="18sp"
+        android:id="@+id/tv_res">
+
+    </TextView>
+
+    <Button
+        android:id="@+id/btn_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_res"
+        android:onClick="btnSuma"
+        android:padding="5dp"
+        android:text="@string/add">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btn_res"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_res"
+        android:layout_toRightOf="@id/btn_add"
+        android:padding="5dp"
+        android:text="@string/sub"
+        android:onClick="btnResta">
+
+    </Button>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_add"
+        android:id="@+id/btn_mult"
+        android:text="@string/mult"
+        android:padding="5dp"
+        android:onClick="btnMult">
+    </Button>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_res"
+        android:layout_toRightOf="@id/btn_mult"
+        android:padding="5dp"
+        android:id="@+id/btn_div"
+        android:text="@string/div"
+        android:onClick="btnDiv">
+
+    </Button>
+
+
+
+
+
+
+</RelativeLayout>

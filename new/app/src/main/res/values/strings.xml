@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_sameday">Same day messenger service.</string>
+    <string name="txt_nextday">Next day messenger service</string>
+    <string name="txt_pickup">Pick Up a day</string>
+    <string name="txt_ups">UPS</string>
+    <string-array name="labels">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Celular</item>
+        <item>Otro</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+
+    <string name="v1">Primer Valor</string>
+    <string name="v2">Segundo Valor</string>
+    <string name="add">Suma</string>
+    <string name="sub">Resta</string>
+    <string name="div">División</string>
+    <string name="mult">Multiplicación</string>
+    <string name="res">Resultado</string>
+    
+</resources>

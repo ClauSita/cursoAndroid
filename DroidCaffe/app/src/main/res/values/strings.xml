@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DroidCaffe</string>
+    <string name="tst_donut">Ordenaste una tostada</string>
+    <string name="tst_ice">Ordenaste helado</string>
+    <string name="tst_mor">Ordenaste un mordisco</string>
+
+
+
+</resources>

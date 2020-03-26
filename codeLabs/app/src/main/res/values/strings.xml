@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">codeLabs</string>
+    <string name="btn_toast">Toast</string>
+    <string name="btn_click">Click</string>
+    <string name="tst_holis">¡Hola Genio!</string>
+    <string name="txt_art_title">Título de Artículo</string>
+    <string name="txt_art_st">Subtítulo del artículo</string>
+    <string name="article_text">Lorem ipsum dolor sit amet, www.google.com consectetur adipiscing elit. Fusce blandit auctor tellus, in facilisis nisl ornare nec. Pellentesque blandit tellus ut pulvinar pretium. Pellentesque accumsan mi eget lorem laoreet, sed viverra urna gravida. Sed eu tellus cursus sapien mollis condimentum eget tincidunt lacus. Vivamus eget tempus dui. Praesent sit amet risus quis massa aliquam tristique at convallis orci. Nulla facilisi. Vestibulum dapibus est nibh, sit amet sodales diam volutpat vel. Vestibulum finibus augue vel ultrices ullamcorper. Suspendisse urna nisl, bibendum eget ligula sed, sagittis venenatis velit. Praesent semper ac nisi luctus interdum. Suspendisse scelerisque, orci sit amet pretium viverra, dui lacus vehicula mi, ac congue leo neque sit amet augue. Morbi iaculis scelerisque erat, id sagittis purus pharetra eget.
+        \n Morbi eleifend ipsum aliquet lectus lobortis accumsan. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu scelerisque mi, id vestibulum mi. Sed semper erat a purus vehicula, eget pretium sapien posuere. Morbi pellentesque id est et bibendum. Fusce quis pharetra erat. Sed nec justo nulla.
+        \n Phasellus vel urna mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean non nunc lacinia, mattis quam quis, luctus risus. Maecenas non fermentum nulla. Morbi vitae convallis velit, sit amet tristique justo. Quisque non sodales justo. Nulla dignissim, mi id ultrices imperdiet, tortor urna aliquam est, vel aliquam elit neque eget dui. Duis eu laoreet risus, eu finibus odio.
+        \n Vestibulum pellentesque, purus eu hendrerit viverra, dui lectus ultrices felis, quis luctus nulla leo nec felis. Curabitur venenatis fermentum ultrices. Donec ac nulla porta, porttitor est quis, ultricies quam. Mauris venenatis, ex sit amet posuere fermentum, dolor ipsum pharetra neque, a efficitur arcu orci eget dui. Aliquam porttitor posuere porttitor. Proin risus leo, vulputate sed interdum id, suscipit vel eros. In justo neque, dictum sed nisl ac, rhoncus sodales nulla. Curabitur egestas varius urna at rhoncus. Mauris non imperdiet dui. Pellentesque sodales vel magna vel vestibulum. Morbi lacinia nunc at dui viverra efficitur.
+        \n Fusce sit amet felis neque. Maecenas at massa a felis iaculis blandit sit amet ac nisl. Suspendisse viverra faucibus lacus, vitae ullamcorper ipsum scelerisque sed. Nullam hendrerit nunc non tortor molestie, eget vestibulum erat pellentesque. Curabitur tempus, urna eu accumsan ullamcorper, tortor justo rutrum eros, ut iaculis quam purus eget ipsum. Etiam purus urna, interdum sed ligula vel, placerat venenatis erat. Maecenas cursus efficitur elementum. Phasellus mattis orci felis, in interdum eros volutpat et. Maecenas rhoncus nulla sit amet felis cursus, eu malesuada tellus malesuada. Pellentesque felis nulla, faucibus eu laoreet vel, sodales et diam. Proin efficitur auctor sem, ut tempus turpis suscipit quis. Pellentesque luctus molestie tempus.
+    </string>
+    <string name="btn_ok">Ok</string>
+    <string name="txt_hint_enviar">Mensaje</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_ir_toast">Ir a toast</string>
+    <string name="btn_respuesta">Respuesta</string>
+    <string name="edtxt_hint_respuesta">Escribe aquí tu respuesta.</string>
+    <string name="txt_replay_ok">Respuesta recibida.</string>
+
+
+</resources>

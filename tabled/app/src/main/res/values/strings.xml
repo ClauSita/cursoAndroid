@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tabled</string>
+
+    <!-- Top Stories -->
+    <string name="title_topStory">These are the top stories:</string>
+    <string name="tb1_title">Top Stories</string>
+
+
+    <!-- Tech news -->
+    <string name="title_techStories">Tech news you can use:</string>
+    <string name="tb2_title">Tech News</string>
+
+    <!-- Cooking tab -->
+    <string name="title_cooking">Cook</string>
+    <string name="tb3_titile">Cooking</string>
+</resources>
